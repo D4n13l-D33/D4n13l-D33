@@ -13,25 +13,6 @@ Join me on Twitter or Linkedin, where I share insights, victories, and even the 
 [![X Badge](https://img.shields.io/badge/X-black?style=for-the-badge&logo=X&logoColor=white)](https://x.com/abraham_d33)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/ugbedeojo-abraham-36966a1b8)
 
-## Competitions: 🥇
- 
-### AUDITS
-
-| CTF | Result | Team | Date |
-|-----|-----|-----|-----|
-|CIT@CTF|top 6%| undermouses |04/2024|
-|BSidesSF CTF|top 10%| movie43 |05/2024|
-|swampCTF|top 17%|check_your_mouse |03/2024|
-|vksCTF|top 18%| Solo played |09/2023|
-|Space HeroesCTF| top 23% | undermouses |04/2024|
-|AI CTF|top 23%|movie43|05/2024|
-|BCACTF 5.0|top 25%|movie43|06/2024|
-|vsCTF|top 26%| movie43 |06/2024|
-|wolvCTF|top 31%| undermouses|03/2024|
-|osuCTF|top 35%| undermouses |02/2024|
-|ethernautCTF|out of competition|solo|03/2024|
-
-
 
 
 ### Working on: 🚀
@@ -52,7 +33,7 @@ Join me on Twitter or Linkedin, where I share insights, victories, and even the 
 ### Best frameworks and main libraries for Solidity:
 
 | Foundry | Hardhat |
-|----------|----------|----------|----------|----------|----------|
+|----------|----------|
 |  <img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" title="Foundry"  alt="Foundry" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt=Hardhat" width="55" height="55"/>|
 
 
