@@ -32,9 +32,9 @@ Join me on Twitter or Linkedin, where I share insights, victories, and even the 
 
 ### Best frameworks and main libraries for Solidity:
 
-| Foundry | Hardhat |
+| Foundry | HardHat |
 |----------|----------|
-|  <img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" title="Foundry"  alt="Foundry" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Hardhat" alt=Hardhat" width="55" height="55"/>|
+|<<img src="https://github.com/foundry-rs/foundry/blob/master/.github/logo.png" title="Foundry"  alt="Foundry" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/hardhat/hardhat-original.svg" title="Swagger" alt="Swagger" width="55" height="55"/>|
 
 
   
